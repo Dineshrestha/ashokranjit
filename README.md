@@ -1,24 +1,42 @@
-# Ashok Ranjit — Portfolio prototype
+# Ashok Ranjit — Cinematography Portfolio
 
-Cinematographer & Visual Storyteller portfolio concept.
+A responsive dark-cinematic portfolio concept for **Ashok Ranjit**, cinematographer and visual storyteller.
 
-## Current repository preview
+## Ready-to-review complete prototype
 
-The `index.html` currently includes a responsive dark cinematic design with five verified user-supplied YouTube URLs, links to Instagram/Facebook/YouTube, a biography adapted from the provided About screenshot and clearly labeled photography placeholders.
+The prototype package created in ChatGPT contains the full website and seven screenshot-cropped JPGs. **To publish that full layout**, upload the files from the complete prototype ZIP into the repository's root, preserving the folder structure:
 
-**Important:** The downloadable full prototype ZIP shared in ChatGPT includes seven screenshot-derived local images and the richer lightbox/filter UI. Those binary image assets were not included in this initial GitHub commit. This GitHub preview is therefore a lighter, self-contained version, not a byte-for-byte copy of that ZIP.
+```
+index.html
+README.md
+assets/
+  ashok-portrait.jpg
+  portrait-bw.jpg
+  golden-dog.jpg
+  motorcycle-art.jpg
+  charlie-01.jpg
+  charlie-02.jpg
+  charlie-03.jpg
+```
 
-## Next steps
+**Current GitHub status:** The repository's existing `index.html` is a working lighter preview that uses YouTube thumbnails and placeholder gallery images. The full image-backed site and its lightbox/filter interactions are in the complete ZIP, not yet on GitHub. The GitHub connector available in this session did not support transferring the local JPG binaries.
 
-1. Upload the original photographer portrait and selected photography from the shared Google Drive to `assets/`.
-2. Replace placeholder gallery and portrait blocks with original images.
-3. Confirm each YouTube video's title, category and Ashok's specific role.
-4. Obtain Ashok's approval and appropriate publication rights.
-5. Configure GitHub Pages when publishing is appropriate (repository currently private).
-
-## Social links
-
-- Website: https://ashokranjit.com.np/index.html
+## Source content
+- Video: https://www.youtube.com/watch?v=70I0yC-0Mhs
+- Video: https://www.youtube.com/watch?v=OJ49lRSysqg
+- Video: https://www.youtube.com/watch?v=-cI0Lh5JbpQ
+- Song: https://www.youtube.com/watch?v=enBa9FwGalU
+- Song: https://www.youtube.com/watch?v=8KbiLB0YwoQ
 - Instagram: https://www.instagram.com/ashok_ranjit/
 - YouTube: https://www.youtube.com/@Hridharoaxz
 - Facebook: https://www.facebook.com/ashok.ranjit5698
+- Existing site: https://ashokranjit.com.np/index.html
+
+## Publishing checklist
+1. Replace screenshot-based low-resolution crops with original photos from Ashok's Google Drive.
+2. Confirm project titles, year, Ashok's role and production credits.
+3. Confirm use rights for the photographs, music and film stills.
+4. Ask Ashok to approve the final public biography and contact information.
+5. Enable GitHub Pages after deciding whether to make the private repository public.
+
+*The draft bio is adapted from a screenshot provided for this portfolio project.*
